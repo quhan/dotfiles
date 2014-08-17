@@ -1,4 +1,4 @@
-# Mac dot file
+# Mac dot files
 
 
 * .bash_profile
