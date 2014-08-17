@@ -1,3 +1,6 @@
+# For Homebrew. Refer to http://rkulla.blogspot.sg/2014/03/the-path-to-homebrew.html
+export PATH=/usr/local/bin:$PATH
+
 # Set timezone so file creation/modification dates make sense
 TZ="Asia/Singapore"
 
